@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,figma,git,obsidian,ps,vscode" />
+  </a>
+</p>
 
 <!--
 **Necrodante/Necrodante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
