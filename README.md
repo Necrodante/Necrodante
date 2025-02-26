@@ -1,4 +1,4 @@
-![Necrodante's GitHub stats](https://github-readme-stats.vercel.app/api?username=necrodante&show_icons=true&theme=bg_color=00000000)
+![Necrodante's GitHub stats](https://github-readme-stats.vercel.app/api?username=necrodante&show_icons=true&&theme=transparen)
 
 <p align="center">
   <a href="https://skillicons.dev">
