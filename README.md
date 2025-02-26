@@ -1,6 +1,6 @@
 ![Necrodante's GitHub stats](https://github-readme-stats.vercel.app/api?username=necrodante&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necrodante&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF)
 
 <p align="center">
   <a href="https://skillicons.dev">
