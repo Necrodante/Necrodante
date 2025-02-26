@@ -1,8 +1,9 @@
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
 
-![Necrodante's GitHub stats](https://github-readme-stats.vercel.app/api?username=necrodante&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
+  ![Necrodante's GitHub stats](https://github-readme-stats.vercel.app/api?username=necrodante&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necrodante&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necrodante&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF)
+
 </div>
 
 
