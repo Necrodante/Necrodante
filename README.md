@@ -1,4 +1,4 @@
-![Necrodante's GitHub stats](https://github-readme-stats.vercel.app/api?username=necrodante&show_icons=true&&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Necrodante's GitHub stats](https://github-readme-stats.vercel.app/api?username=necrodante&show_icons=true&&theme=transparentdark#gh-dark-mode-only)
 
 <p align="center">
   <a href="https://skillicons.dev">
