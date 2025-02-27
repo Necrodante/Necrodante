@@ -10,7 +10,9 @@
 
 <p align="center">
     <a href="https://x.com/Necrodante_">
-        <img alt="Static Badge" src="https://img.shields.io/badge/TWITTER-transparent?style=for-the-badge&labelColor=black&color=black">
+        <img alt="Static Badge" src="https://img.shields.io/badge/TWITTER-transparent?style=for-the-badge&labelColor=black&color=black">        
+            <a href="https://www.instagram.com/necrodante_/">
+                <img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-transparent?style=for-the-badge&labelColor=black&color=black">
 </p>
 
 <!--
