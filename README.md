@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-    <a class="botao" href="https://www.instagram.com/necrodante_/">Instagram </a>
-    <a class="botao" href="https://x.com/Necrodante_">Twitter</a>
-    <a class="botao" href="https://github.com/Necrodante">Github</a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/TWITTER-transparent?style=for-the-badge&labelColor=black&color=black">
 </p>
 
 <!--
