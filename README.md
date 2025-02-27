@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/TWITTER-transparent?style=for-the-badge&labelColor=black&color=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/TWITTER-transparent?style=for-the-badge&labelColor=black&color=black&link=https%3A%2F%2Fx.com%2FNecrodante_">
 </p>
 
 <!--
