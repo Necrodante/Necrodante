@@ -1,9 +1,7 @@
-<div style="display: flex; justify-content: space-between; max-width: 100%;">
-  <p align="center">
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Necrodante&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necrodante&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF" />
   </p>
-</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -11,11 +9,11 @@
 </p>
 
 <p align="center">
-  <style="text-decoration:none">
-  <a class="botao" href="https://www.instagram.com/necrodante_/">Instagram </a>
-  <a class="botao" href="https://x.com/Necrodante_">Twitter</a>
-  <a class="botao" href="https://github.com/Necrodante">Github</a>
+    <a class="botao" href="https://www.instagram.com/necrodante_/">Instagram </a>
+    <a class="botao" href="https://x.com/Necrodante_">Twitter</a>
+    <a class="botao" href="https://github.com/Necrodante">Github</a>
 </p>
+
 <!--
 **Necrodante/Necrodante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
