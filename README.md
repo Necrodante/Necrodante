@@ -11,25 +11,10 @@
 </p>
 
 <p align="center">
-  <a class="botao" href="https://www.instagram.com/necrodante_/">Instagram <style="text-decoration:none"></a> 
+  <style="text-decoration:none">
+  <a class="botao" href="https://www.instagram.com/necrodante_/">Instagram </a>
   <a class="botao" href="https://x.com/Necrodante_">Twitter</a>
   <a class="botao" href="https://github.com/Necrodante">Github</a>
-    <style>
-      .botao{
-    background-color: darkred;
-    color: #000000;
-    padding: 12px 24px;
-    border: none;
-    border-radius: 8px;
-    font-size: 20px;
-    font-weight: bold;
-    text-decoration: none;
-    font-family: "Raleway", serif;
-    cursor: pointer;
-    transition: 0.3s ease-in-out;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
-        }
-    </style>
 </p>
 <!--
 **Necrodante/Necrodante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
