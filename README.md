@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a class="botao" href="https://www.instagram.com/necrodante_/">Instagram </a>
+  <a class="botao" href="https://www.instagram.com/necrodante_/">Instagram <style="text-decoration:none"></a> 
   <a class="botao" href="https://x.com/Necrodante_">Twitter</a>
   <a class="botao" href="https://github.com/Necrodante">Github</a>
     <style>
-      .botao {
+      .botao{
     background-color: darkred;
     color: #000000;
     padding: 12px 24px;
