@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; max-width: 100%;">
+<div style="display: flex; justify-content: space-between; max-width: 100%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Necrodante&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" style="margin-right: 50px;" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necrodante&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF" />
