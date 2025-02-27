@@ -1,4 +1,12 @@
 <p align="center">
+    <img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/fbabc357-b945-4e72-8881-b94e68522174/Cozy+Home+Office?format=2500w" alt="Banner">
+</p>
+
+<h1 align="center">Hi, I'm Necrodante!</h1>
+<h3 align="center">Welcome to my GitHub profile :D</h3>
+<p align="center">I'm a FullStack Software Engineer. Always seeking to develop robust and responsive screens. However, I am expanding my knowledge everyday trying to be better!</p>
+
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Necrodante&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necrodante&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF" />
   </p>
