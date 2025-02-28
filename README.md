@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/fbabc357-b945-4e72-8881-b94e68522174/Cozy+Home+Office?format=2500w" alt="Banner">
+</p>
 
 <h1 align="center">Hi, I'm Necrodante!</h1>
 <h3 align="center">Welcome to my GitHub profile :D</h3>
@@ -20,9 +23,3 @@
 [![Static Badge](https://img.shields.io/badge/instagram-black?style=for-the-badge)](https://www.instagram.com/necrodante_)
 
 </div>
-
-
-<!-- 
-<p align="center">
-    <img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/fbabc357-b945-4e72-8881-b94e68522174/Cozy+Home+Office?format=2500w" alt="Banner">
-</p>
