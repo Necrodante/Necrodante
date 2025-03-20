@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Necrodante!</h1>
 <h3 align="center">Welcome to my GitHub profile :D</h3>
-<p align="center">I'm a Fullstack Software Engineer, coding since 2020. Always striving to learn and improve every day. I'm constantly looking for new challenges and opportunities to become a better FullStack developer and contribute to technological innovations. Anyway, I enjoy modding the games I play and create silly projects.</p>
+<p align="center">I'm a Front-End Software Engineer, coding since 2020. Always striving to learn and improve every day. I'm constantly looking for new challenges and opportunities to become a FullStack developer and contribute to technological innovations. Anyway, I enjoy modding the games I play and create silly projects.</p>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Necrodante&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
