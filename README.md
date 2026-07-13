@@ -7,11 +7,6 @@
 <p align="center">I'm a Front-End Software Engineer, coding since 2020. Always striving to learn and improve every day. I'm constantly looking for new challenges and opportunities to become a FullStack developer and contribute to technological innovations. Anyway, I enjoy modding the games I play and create silly projects.</p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Necrodante&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necrodante&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF" />
-  </p>
-
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,figma,git,obsidian,ps,vscode" />
 </p>
