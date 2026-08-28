@@ -13,8 +13,7 @@
 
 <div align="center">
     
-[![Static Badge](https://img.shields.io/badge/twitter-black?style=for-the-badge)](https://x.com/Necrodante_)
-[![Static Badge](https://img.shields.io/badge/twitch-black?style=for-the-badge)](https://www.twitch.tv/gatonecromante)
-[![Static Badge](https://img.shields.io/badge/instagram-black?style=for-the-badge)](https://www.instagram.com/necrodante_)
+[![Static Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge)](https://www.linkedin.com/in/frossetto/)
+[![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=contact.rosssetto@gmail.com&su=Olá!&body=Olá,%20gostaria%20de%20entrar%20em%20contato.)
 
 </div>
